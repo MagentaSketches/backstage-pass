@@ -1,4 +1,4 @@
-# Hidden Conductor - AI Agent Security Challenge
+# Backstage Pass - AI Agent Security Challenge
 
 A deliberately vulnerable AI agent chatbot demonstrating prompt injection and local file inclusion vulnerabilities.
 
